@@ -1,0 +1,21 @@
+﻿Category,Rank,Player,Pressure Balls,Pressure Matches,Pressure Runs,Pressure Outs/Wickets,Pressure SR/Economy,Pressure Average,Baseline SR/Economy,Difference vs Baseline,Consistency %,Consistency Matches,IPL Pressure Balls,T20I Pressure Balls,Model Score
+Batter,1,Donovan Ferreira,154,16,321,10,208.44,32.1,127.51,80.93,90.0,10,108,46,0.9792
+Batter,2,Shashank Singh,362,31,662,13,182.87,50.92,122.73,60.15,73.9,23,362,0,0.9377
+Batter,3,Rinku Singh,630,60,1172,31,186.03,37.81,120.61,65.42,84.8,46,462,168,0.9357
+Batter,4,Babar Azam,139,11,266,4,191.37,66.5,125.43,65.94,87.5,8,0,139,0.9184
+Batter,5,Tristan Stubbs,505,46,935,24,185.15,38.96,119.06,66.08,79.4,34,355,150,0.8753
+Batter,6,Tilak Varma,711,62,1287,35,181.01,36.77,128.41,52.6,81.0,42,416,295,0.7255
+Batter,7,Gareth Delany,173,19,275,11,158.96,25.0,86.99,71.97,92.3,13,0,173,0.6878
+Batter,8,Dinesh Karthik,435,49,828,28,190.34,29.57,118.14,72.21,75.0,36,337,98,0.6729
+Batter,9,MS Dhoni,394,45,638,21,161.93,30.38,79.71,82.22,85.7,28,394,0,0.6488
+Batter,10,Shreyas Iyer,351,34,687,24,195.73,28.62,143.26,52.46,85.7,21,241,110,0.648
+Bowler,1,Haris Rauf,180,25,249,22,8.3,,8.75,-0.45,60.0,20,0,180,1.1824
+Bowler,2,Matheesha Pathirana,240,31,365,27,9.12,,8.73,0.4,52.2,23,177,63,0.9195
+Bowler,3,Eshan Malinga,115,18,178,13,9.29,,9.45,-0.17,69.2,13,60,55,0.8635
+Bowler,4,Maheesh Theekshana,176,29,243,15,8.28,,7.72,0.56,56.0,25,58,118,0.7986
+Bowler,5,Sunil Narine,70,13,91,8,7.8,,6.82,0.98,54.5,11,70,0,0.7046
+Bowler,6,Joshua Little,95,17,159,12,10.04,,7.89,2.15,66.7,15,18,77,0.6571
+Bowler,7,Mitchell Starc,99,16,175,13,10.61,,9.75,0.86,53.8,13,79,20,0.5968
+Bowler,8,Trent Boult,125,25,225,15,10.8,,8.27,2.53,61.1,18,112,13,0.5433
+Bowler,9,Shaheen Afridi,106,17,168,11,9.51,,7.82,1.69,58.3,12,0,106,0.534
+Bowler,10,Nathan Ellis,134,17,227,15,10.16,,7.91,2.26,56.2,16,40,94,0.53
