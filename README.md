@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👑 RR PressureIQ 2027 | Premium Cricket Analytics & Auction Intelligence War Room
 
 An executive-tier cricket scouting and auction intelligence war room engineered for the **Rajasthan Royals "SupeRR Selector" (Round 1: Identify the Most Reliable Players Under Pressure)** competition.
@@ -81,3 +82,6 @@ vercel
 5. **🧩 Squad Combination Simulator**: 11-player Playing XI builder with real IPL rules (max 4 overseas enforcement, TPRI calculation, preset lineups).
 6. **⚠️ Player Risk Matrix**: Identifies sample size liabilities, domestic-to-IPL transferability risks, and baseline regressors.
 7. **📘 The Winning Pitch Deck**: Academic and mathematical framework answering the Rajasthan Royals Unstop brief.
+=======
+# RR_PressureIQ_Dashboard
+>>>>>>> origin/main
