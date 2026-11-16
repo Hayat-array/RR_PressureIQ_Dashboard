@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Space Grotesk', system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #090C12;
+  color: #E2E8F0;
+  min-height: 100vh;
+}
+
+/* Quiet Surface Steps */
+.surface-base {
+  background-color: #090C12;
+}
+
+.surface-raised {
+  background-color: #0F141F;
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.surface-overlay {
+  background-color: #151C2C;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Hairline dividers */
+.border-subtle {
+  border-color: rgba(255, 255, 255, 0.07);
+}
+
+/* Subtle scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #090C12;
+}
+::-webkit-scrollbar-thumb {
+  background: #1E2638;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #2D374D;
+}
